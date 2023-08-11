@@ -2,6 +2,6 @@
 
 public class first {
     public static void main(String[] args) {
-        System.out.printl("hello java");
+        System.out.println("hello java");
     }
 }
